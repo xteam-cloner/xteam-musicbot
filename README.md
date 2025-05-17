@@ -42,7 +42,7 @@
 ```sudo pip3 install -U pip```
 - Add your cookies to [cookies.txt](https://github.com/venombolteop/VenomMusic/blob/main/cookies/cookies.txt)
 - Clone the repository by :
-```git clone https://github.com/venombolteop/VenomMusic&& cd VenomMusic```
+```git clone https://github.com/xteam-cloner/xteam-musicbot && cd xteam-musicbot```
 - Install requirements by :
 ```pip3 install -U -r requirements.txt```
 - Fill your variables in the env by :
